@@ -1,0 +1,26 @@
+.BackgroundTop {
+  width: 100%;
+  height: 12.8%;
+  background-image: url("../../Assets/PNG/TopLeft.png"),
+    url("../../Assets/PNG/TopRight.png");
+  background-position: left top, right top;
+  background-repeat: no-repeat;
+  background-size: 194px 214px, 138px 201px;
+}
+
+.BackgroundMidFirst {
+  height: 64%;
+
+}
+
+.BackgroundMidSecond {
+  height: 46%;
+}
+
+.Center {
+  height: 46%;
+  background-image: url("../../Assets/PNG/mobileCenterLeft.png"), url("../../Assets/PNG/mobileCenterRight.png");
+  background-position: left bottom, right top;
+  background-repeat: no-repeat;
+  background-size: 375px 50%, 375px 60%
+}

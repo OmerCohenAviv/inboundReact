@@ -1,0 +1,41 @@
+.Container {
+    display: flex;
+    flex-direction: column;
+    height: 75%;
+    width: 100%;
+    position: initial;
+    margin-top: 10%;
+    justify-content: center;
+    color: #00a9ff;
+    align-items: center;
+    margin-left: 35px;
+    margin-top: 30%;
+
+}
+p {
+  margin-top: 0;
+  margin-right: 15%;
+  margin-left: 15%;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #464646;
+}
+.Title {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #00a9ff;
+  width: 63.2%;
+  height: 5%;
+}
